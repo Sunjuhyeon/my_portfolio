@@ -1,0 +1,43 @@
+.s-down #h-section{
+    background-color: rgb(95, 94, 95, .5);
+}
+.s-down #h-section a{
+    color: white !important;
+}
+.s-down #h-section a img{
+    content: url(../img/SVG/ko-jh-color.svg);
+}
+
+.navbar-brand img{
+    width: 4em;
+    height: auto;
+}
+
+.h-slide{
+    background-color: #e5d8fb;
+}
+
+.swiper-button-prev{color: #865DFF;}
+.swiper-button-next{color: #865DFF;}
+
+.swiper-slide a:nth-child(1){
+    background: linear-gradient(to bottom, #865DFF, #FFA3FD);
+    border: none;
+    color: white;
+}
+.swiper-slide a:nth-child(2){
+    border: 2px solid #865DFF;
+}
+
+.feature{
+    background: linear-gradient(to bottom, #6930C3, #BBA7DD);
+}
+
+aside{
+    background-color: #865DFF;
+}
+.submit{
+    background: linear-gradient(to top, #53FBDD, #F9EAFF);
+    border: none;
+}
+/*# sourceMappingURL=my.min.css.map */
